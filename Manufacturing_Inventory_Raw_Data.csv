@@ -1,0 +1,721 @@
+Month,SKU_ID,Plant_Location,Category,Supplier_Name,Lead_Time_Days,Opening_Stock,Monthly_Demand,Received_Quantity,Closing_Stock,Unit_Cost,Delayed_Delivery_Flag
+Month_01,SKU_001,Plant_West,Fasteners,Prime Logistics,6,171,224,238,185,227.27,0
+Month_02,SKU_001,Plant_West,Fasteners,Prime Logistics,7,185,193,151,143,227.27,1
+Month_03,SKU_001,Plant_West,Fasteners,Prime Logistics,11,143,232,173,84,227.27,1
+Month_04,SKU_001,Plant_West,Fasteners,Prime Logistics,11,84,276,204,12,227.27,1
+Month_05,SKU_001,Plant_West,Fasteners,Prime Logistics,6,12,188,196,20,227.27,0
+Month_06,SKU_001,Plant_West,Fasteners,Prime Logistics,6,20,188,168,0,227.27,0
+Month_07,SKU_001,Plant_West,Fasteners,Prime Logistics,6,0,278,268,-10,227.27,0
+Month_08,SKU_001,Plant_West,Fasteners,Prime Logistics,6,-10,238,239,-9,227.27,0
+Month_09,SKU_001,Plant_West,Fasteners,Prime Logistics,6,-9,176,169,-16,227.27,0
+Month_10,SKU_001,Plant_West,Fasteners,Prime Logistics,6,-16,227,228,-15,227.27,0
+Month_11,SKU_001,Plant_West,Fasteners,Prime Logistics,9,-15,176,136,-55,227.27,1
+Month_12,SKU_001,Plant_West,Fasteners,Prime Logistics,6,-55,176,194,-37,227.27,0
+Month_01,SKU_002,Plant_West,Machined Parts,Prime Logistics,9,293,212,160,241,372.95,1
+Month_02,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,241,104,107,244,372.95,0
+Month_03,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,244,113,97,228,372.95,0
+Month_04,SKU_002,Plant_West,Machined Parts,Prime Logistics,7,228,171,127,184,372.95,1
+Month_05,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,184,149,143,178,372.95,0
+Month_06,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,178,215,219,182,372.95,0
+Month_07,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,182,154,174,202,372.95,0
+Month_08,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,202,129,119,192,372.95,0
+Month_09,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,192,273,266,185,372.95,0
+Month_10,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,185,188,172,169,372.95,0
+Month_11,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,169,203,193,159,372.95,0
+Month_12,SKU_002,Plant_West,Machined Parts,Prime Logistics,4,159,128,123,154,372.95,0
+Month_01,SKU_003,Plant_South,Electronics,Apex Supply,13,452,172,172,452,223.26,0
+Month_02,SKU_003,Plant_South,Electronics,Apex Supply,13,452,205,188,435,223.26,0
+Month_03,SKU_003,Plant_South,Electronics,Apex Supply,13,435,142,124,417,223.26,0
+Month_04,SKU_003,Plant_South,Electronics,Apex Supply,13,417,218,223,422,223.26,0
+Month_05,SKU_003,Plant_South,Electronics,Apex Supply,13,422,169,162,415,223.26,0
+Month_06,SKU_003,Plant_South,Electronics,Apex Supply,13,415,185,201,431,223.26,0
+Month_07,SKU_003,Plant_South,Electronics,Apex Supply,13,431,169,169,431,223.26,0
+Month_08,SKU_003,Plant_South,Electronics,Apex Supply,13,431,292,303,442,223.26,0
+Month_09,SKU_003,Plant_South,Electronics,Apex Supply,13,442,199,208,451,223.26,0
+Month_10,SKU_003,Plant_South,Electronics,Apex Supply,18,451,147,107,411,223.26,1
+Month_11,SKU_003,Plant_South,Electronics,Apex Supply,13,411,241,258,428,223.26,0
+Month_12,SKU_003,Plant_South,Electronics,Apex Supply,13,428,138,155,445,223.26,0
+Month_01,SKU_004,Plant_North,Casting,Precision Eng,5,360,210,193,343,797.89,0
+Month_02,SKU_004,Plant_North,Casting,Precision Eng,5,343,102,91,332,797.89,0
+Month_03,SKU_004,Plant_North,Casting,Precision Eng,5,332,133,140,339,797.89,0
+Month_04,SKU_004,Plant_North,Casting,Precision Eng,5,339,209,213,343,797.89,0
+Month_05,SKU_004,Plant_North,Casting,Precision Eng,5,343,236,245,352,797.89,0
+Month_06,SKU_004,Plant_North,Casting,Precision Eng,5,352,208,223,367,797.89,0
+Month_07,SKU_004,Plant_North,Casting,Precision Eng,5,367,194,174,347,797.89,0
+Month_08,SKU_004,Plant_North,Casting,Precision Eng,5,347,184,171,334,797.89,0
+Month_09,SKU_004,Plant_North,Casting,Precision Eng,5,334,126,140,348,797.89,0
+Month_10,SKU_004,Plant_North,Casting,Precision Eng,5,348,164,165,349,797.89,0
+Month_11,SKU_004,Plant_North,Casting,Precision Eng,9,349,176,138,311,797.89,1
+Month_12,SKU_004,Plant_North,Casting,Precision Eng,8,311,252,212,271,797.89,1
+Month_01,SKU_005,Plant_West,Wiring,Global Parts Inc,13,252,217,229,264,730.98,0
+Month_02,SKU_005,Plant_West,Wiring,Global Parts Inc,13,264,111,100,253,730.98,0
+Month_03,SKU_005,Plant_West,Wiring,Global Parts Inc,13,253,216,206,243,730.98,0
+Month_04,SKU_005,Plant_West,Wiring,Global Parts Inc,13,243,180,193,256,730.98,0
+Month_05,SKU_005,Plant_West,Wiring,Global Parts Inc,13,256,166,184,274,730.98,0
+Month_06,SKU_005,Plant_West,Wiring,Global Parts Inc,13,274,230,211,255,730.98,0
+Month_07,SKU_005,Plant_West,Wiring,Global Parts Inc,16,255,251,193,197,730.98,1
+Month_08,SKU_005,Plant_West,Wiring,Global Parts Inc,13,197,246,241,192,730.98,0
+Month_09,SKU_005,Plant_West,Wiring,Global Parts Inc,13,192,158,143,177,730.98,0
+Month_10,SKU_005,Plant_West,Wiring,Global Parts Inc,14,177,184,146,139,730.98,1
+Month_11,SKU_005,Plant_West,Wiring,Global Parts Inc,13,139,216,230,153,730.98,0
+Month_12,SKU_005,Plant_West,Wiring,Global Parts Inc,13,153,248,236,141,730.98,0
+Month_01,SKU_006,Plant_North,Casting,Swift Mfg,12,316,176,190,330,219.39,0
+Month_02,SKU_006,Plant_North,Casting,Swift Mfg,12,330,190,182,322,219.39,0
+Month_03,SKU_006,Plant_North,Casting,Swift Mfg,12,322,144,149,327,219.39,0
+Month_04,SKU_006,Plant_North,Casting,Swift Mfg,12,327,140,143,330,219.39,0
+Month_05,SKU_006,Plant_North,Casting,Swift Mfg,12,330,240,253,343,219.39,0
+Month_06,SKU_006,Plant_North,Casting,Swift Mfg,12,343,267,262,338,219.39,0
+Month_07,SKU_006,Plant_North,Casting,Swift Mfg,12,338,196,197,339,219.39,0
+Month_08,SKU_006,Plant_North,Casting,Swift Mfg,17,339,250,202,291,219.39,1
+Month_09,SKU_006,Plant_North,Casting,Swift Mfg,12,291,218,202,275,219.39,0
+Month_10,SKU_006,Plant_North,Casting,Swift Mfg,12,275,167,150,258,219.39,0
+Month_11,SKU_006,Plant_North,Casting,Swift Mfg,12,258,218,200,240,219.39,0
+Month_12,SKU_006,Plant_North,Casting,Swift Mfg,12,240,276,260,224,219.39,0
+Month_01,SKU_007,Plant_South,Wiring,Global Parts Inc,11,376,198,175,353,538.49,1
+Month_02,SKU_007,Plant_South,Wiring,Global Parts Inc,6,353,278,273,348,538.49,0
+Month_03,SKU_007,Plant_South,Wiring,Global Parts Inc,6,348,69,75,354,538.49,0
+Month_04,SKU_007,Plant_South,Wiring,Global Parts Inc,6,354,241,227,340,538.49,0
+Month_05,SKU_007,Plant_South,Wiring,Global Parts Inc,6,340,204,206,342,538.49,0
+Month_06,SKU_007,Plant_South,Wiring,Global Parts Inc,6,342,185,194,351,538.49,0
+Month_07,SKU_007,Plant_South,Wiring,Global Parts Inc,6,351,204,187,334,538.49,0
+Month_08,SKU_007,Plant_South,Wiring,Global Parts Inc,6,334,100,86,320,538.49,0
+Month_09,SKU_007,Plant_South,Wiring,Global Parts Inc,7,320,189,159,290,538.49,1
+Month_10,SKU_007,Plant_South,Wiring,Global Parts Inc,6,290,217,209,282,538.49,0
+Month_11,SKU_007,Plant_South,Wiring,Global Parts Inc,6,282,273,261,270,538.49,0
+Month_12,SKU_007,Plant_South,Wiring,Global Parts Inc,6,270,174,171,267,538.49,0
+Month_01,SKU_008,Plant_North,Casting,Global Parts Inc,12,150,159,143,134,360.07,1
+Month_02,SKU_008,Plant_North,Casting,Global Parts Inc,11,134,174,169,129,360.07,0
+Month_03,SKU_008,Plant_North,Casting,Global Parts Inc,11,129,245,256,140,360.07,0
+Month_04,SKU_008,Plant_North,Casting,Global Parts Inc,11,140,216,221,145,360.07,0
+Month_05,SKU_008,Plant_North,Casting,Global Parts Inc,11,145,173,163,135,360.07,0
+Month_06,SKU_008,Plant_North,Casting,Global Parts Inc,11,135,225,229,139,360.07,0
+Month_07,SKU_008,Plant_North,Casting,Global Parts Inc,11,139,204,213,148,360.07,0
+Month_08,SKU_008,Plant_North,Casting,Global Parts Inc,11,148,248,263,163,360.07,0
+Month_09,SKU_008,Plant_North,Casting,Global Parts Inc,11,163,164,175,174,360.07,0
+Month_10,SKU_008,Plant_North,Casting,Global Parts Inc,11,174,183,181,172,360.07,0
+Month_11,SKU_008,Plant_North,Casting,Global Parts Inc,11,172,180,163,155,360.07,0
+Month_12,SKU_008,Plant_North,Casting,Global Parts Inc,11,155,126,140,169,360.07,0
+Month_01,SKU_009,Plant_North,Fasteners,Precision Eng,10,357,214,227,370,49.61,0
+Month_02,SKU_009,Plant_North,Fasteners,Precision Eng,10,370,213,225,382,49.61,0
+Month_03,SKU_009,Plant_North,Fasteners,Precision Eng,15,382,200,147,329,49.61,1
+Month_04,SKU_009,Plant_North,Fasteners,Precision Eng,14,329,188,164,305,49.61,1
+Month_05,SKU_009,Plant_North,Fasteners,Precision Eng,12,305,129,113,289,49.61,1
+Month_06,SKU_009,Plant_North,Fasteners,Precision Eng,10,289,178,160,271,49.61,0
+Month_07,SKU_009,Plant_North,Fasteners,Precision Eng,10,271,182,188,277,49.61,0
+Month_08,SKU_009,Plant_North,Fasteners,Precision Eng,10,277,159,175,293,49.61,0
+Month_09,SKU_009,Plant_North,Fasteners,Precision Eng,10,293,191,187,289,49.61,0
+Month_10,SKU_009,Plant_North,Fasteners,Precision Eng,10,289,220,220,289,49.61,0
+Month_11,SKU_009,Plant_North,Fasteners,Precision Eng,10,289,294,299,294,49.61,0
+Month_12,SKU_009,Plant_North,Fasteners,Precision Eng,14,294,208,172,258,49.61,1
+Month_01,SKU_010,Plant_North,Machined Parts,Prime Logistics,15,151,212,157,96,372.05,1
+Month_02,SKU_010,Plant_North,Machined Parts,Prime Logistics,13,96,196,150,50,372.05,1
+Month_03,SKU_010,Plant_North,Machined Parts,Prime Logistics,12,50,104,107,53,372.05,0
+Month_04,SKU_010,Plant_North,Machined Parts,Prime Logistics,12,53,198,206,61,372.05,0
+Month_05,SKU_010,Plant_North,Machined Parts,Prime Logistics,12,61,203,202,60,372.05,0
+Month_06,SKU_010,Plant_North,Machined Parts,Prime Logistics,12,60,323,336,73,372.05,0
+Month_07,SKU_010,Plant_North,Machined Parts,Prime Logistics,15,73,190,164,47,372.05,1
+Month_08,SKU_010,Plant_North,Machined Parts,Prime Logistics,12,47,215,201,33,372.05,0
+Month_09,SKU_010,Plant_North,Machined Parts,Prime Logistics,12,33,198,186,21,372.05,0
+Month_10,SKU_010,Plant_North,Machined Parts,Prime Logistics,12,21,141,127,7,372.05,0
+Month_11,SKU_010,Plant_North,Machined Parts,Prime Logistics,12,7,257,246,-4,372.05,0
+Month_12,SKU_010,Plant_North,Machined Parts,Prime Logistics,12,-4,237,255,14,372.05,0
+Month_01,SKU_011,Plant_North,Electronics,Precision Eng,7,358,239,222,341,553.12,0
+Month_02,SKU_011,Plant_North,Electronics,Precision Eng,10,341,154,120,307,553.12,1
+Month_03,SKU_011,Plant_North,Electronics,Precision Eng,9,307,270,207,244,553.12,1
+Month_04,SKU_011,Plant_North,Electronics,Precision Eng,7,244,129,125,240,553.12,0
+Month_05,SKU_011,Plant_North,Electronics,Precision Eng,7,240,229,237,248,553.12,0
+Month_06,SKU_011,Plant_North,Electronics,Precision Eng,7,248,309,316,255,553.12,0
+Month_07,SKU_011,Plant_North,Electronics,Precision Eng,7,255,150,137,242,553.12,0
+Month_08,SKU_011,Plant_North,Electronics,Precision Eng,9,242,171,149,220,553.12,1
+Month_09,SKU_011,Plant_North,Electronics,Precision Eng,7,220,204,207,223,553.12,0
+Month_10,SKU_011,Plant_North,Electronics,Precision Eng,7,223,174,163,212,553.12,0
+Month_11,SKU_011,Plant_North,Electronics,Precision Eng,7,212,122,104,194,553.12,0
+Month_12,SKU_011,Plant_North,Electronics,Precision Eng,7,194,203,185,176,553.12,0
+Month_01,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,281,146,152,287,207.13,0
+Month_02,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,287,223,212,276,207.13,0
+Month_03,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,276,154,149,271,207.13,0
+Month_04,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,271,277,268,262,207.13,0
+Month_05,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,262,160,141,243,207.13,0
+Month_06,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,243,183,184,244,207.13,0
+Month_07,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,244,240,246,250,207.13,0
+Month_08,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,250,138,133,245,207.13,0
+Month_09,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,245,211,197,231,207.13,0
+Month_10,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,231,265,247,213,207.13,0
+Month_11,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,213,119,113,207,207.13,0
+Month_12,SKU_012,Plant_West,Machined Parts,Global Parts Inc,4,207,209,218,216,207.13,0
+Month_01,SKU_013,Plant_North,Machined Parts,Precision Eng,13,198,212,209,195,186.11,0
+Month_02,SKU_013,Plant_North,Machined Parts,Precision Eng,13,195,239,236,192,186.11,0
+Month_03,SKU_013,Plant_North,Machined Parts,Precision Eng,13,192,138,150,204,186.11,0
+Month_04,SKU_013,Plant_North,Machined Parts,Precision Eng,13,204,133,147,218,186.11,0
+Month_05,SKU_013,Plant_North,Machined Parts,Precision Eng,13,218,226,207,199,186.11,0
+Month_06,SKU_013,Plant_North,Machined Parts,Precision Eng,15,199,214,191,176,186.11,1
+Month_07,SKU_013,Plant_North,Machined Parts,Precision Eng,13,176,212,208,172,186.11,0
+Month_08,SKU_013,Plant_North,Machined Parts,Precision Eng,16,172,217,177,132,186.11,1
+Month_09,SKU_013,Plant_North,Machined Parts,Precision Eng,13,132,165,165,132,186.11,0
+Month_10,SKU_013,Plant_North,Machined Parts,Precision Eng,13,132,211,223,144,186.11,0
+Month_11,SKU_013,Plant_North,Machined Parts,Precision Eng,15,144,214,188,118,186.11,1
+Month_12,SKU_013,Plant_North,Machined Parts,Precision Eng,13,118,164,171,125,186.11,0
+Month_01,SKU_014,Plant_West,Fasteners,Swift Mfg,14,477,293,296,480,552.62,0
+Month_02,SKU_014,Plant_West,Fasteners,Swift Mfg,14,480,223,224,481,552.62,0
+Month_03,SKU_014,Plant_West,Fasteners,Swift Mfg,14,481,140,127,468,552.62,0
+Month_04,SKU_014,Plant_West,Fasteners,Swift Mfg,14,468,232,231,467,552.62,0
+Month_05,SKU_014,Plant_West,Fasteners,Swift Mfg,14,467,151,157,473,552.62,0
+Month_06,SKU_014,Plant_West,Fasteners,Swift Mfg,14,473,239,237,471,552.62,0
+Month_07,SKU_014,Plant_West,Fasteners,Swift Mfg,14,471,257,249,463,552.62,0
+Month_08,SKU_014,Plant_West,Fasteners,Swift Mfg,14,463,158,162,467,552.62,0
+Month_09,SKU_014,Plant_West,Fasteners,Swift Mfg,14,467,248,239,458,552.62,0
+Month_10,SKU_014,Plant_West,Fasteners,Swift Mfg,14,458,220,219,457,552.62,0
+Month_11,SKU_014,Plant_West,Fasteners,Swift Mfg,14,457,241,221,437,552.62,0
+Month_12,SKU_014,Plant_West,Fasteners,Swift Mfg,14,437,294,287,430,552.62,0
+Month_01,SKU_015,Plant_West,Casting,Swift Mfg,10,326,187,180,319,527.22,0
+Month_02,SKU_015,Plant_West,Casting,Swift Mfg,10,319,162,152,309,527.22,0
+Month_03,SKU_015,Plant_West,Casting,Swift Mfg,10,309,155,153,307,527.22,0
+Month_04,SKU_015,Plant_West,Casting,Swift Mfg,10,307,159,179,327,527.22,0
+Month_05,SKU_015,Plant_West,Casting,Swift Mfg,10,327,196,181,312,527.22,0
+Month_06,SKU_015,Plant_West,Casting,Swift Mfg,10,312,217,212,307,527.22,0
+Month_07,SKU_015,Plant_West,Casting,Swift Mfg,10,307,213,207,301,527.22,0
+Month_08,SKU_015,Plant_West,Casting,Swift Mfg,10,301,241,230,290,527.22,0
+Month_09,SKU_015,Plant_West,Casting,Swift Mfg,14,290,200,149,239,527.22,1
+Month_10,SKU_015,Plant_West,Casting,Swift Mfg,10,239,272,256,223,527.22,0
+Month_11,SKU_015,Plant_West,Casting,Swift Mfg,10,223,186,206,243,527.22,0
+Month_12,SKU_015,Plant_West,Casting,Swift Mfg,10,243,336,340,247,527.22,0
+Month_01,SKU_016,Plant_North,Casting,Apex Supply,14,102,231,217,88,126.58,0
+Month_02,SKU_016,Plant_North,Casting,Apex Supply,14,88,157,151,82,126.58,0
+Month_03,SKU_016,Plant_North,Casting,Apex Supply,14,82,146,159,95,126.58,0
+Month_04,SKU_016,Plant_North,Casting,Apex Supply,14,95,224,239,110,126.58,0
+Month_05,SKU_016,Plant_North,Casting,Apex Supply,14,110,188,175,97,126.58,0
+Month_06,SKU_016,Plant_North,Casting,Apex Supply,14,97,235,244,106,126.58,0
+Month_07,SKU_016,Plant_North,Casting,Apex Supply,14,106,223,238,121,126.58,0
+Month_08,SKU_016,Plant_North,Casting,Apex Supply,14,121,196,204,129,126.58,0
+Month_09,SKU_016,Plant_North,Casting,Apex Supply,14,129,157,169,141,126.58,0
+Month_10,SKU_016,Plant_North,Casting,Apex Supply,14,141,124,139,156,126.58,0
+Month_11,SKU_016,Plant_North,Casting,Apex Supply,14,156,177,167,146,126.58,0
+Month_12,SKU_016,Plant_North,Casting,Apex Supply,14,146,242,252,156,126.58,0
+Month_01,SKU_017,Plant_North,Casting,Precision Eng,7,492,210,221,503,673.49,0
+Month_02,SKU_017,Plant_North,Casting,Precision Eng,7,503,137,134,500,673.49,0
+Month_03,SKU_017,Plant_North,Casting,Precision Eng,7,500,208,206,498,673.49,0
+Month_04,SKU_017,Plant_North,Casting,Precision Eng,7,498,219,220,499,673.49,0
+Month_05,SKU_017,Plant_North,Casting,Precision Eng,7,499,155,169,513,673.49,0
+Month_06,SKU_017,Plant_North,Casting,Precision Eng,11,513,207,151,457,673.49,1
+Month_07,SKU_017,Plant_North,Casting,Precision Eng,7,457,202,195,450,673.49,0
+Month_08,SKU_017,Plant_North,Casting,Precision Eng,12,450,142,110,418,673.49,1
+Month_09,SKU_017,Plant_North,Casting,Precision Eng,7,418,217,200,401,673.49,0
+Month_10,SKU_017,Plant_North,Casting,Precision Eng,7,401,228,234,407,673.49,0
+Month_11,SKU_017,Plant_North,Casting,Precision Eng,7,407,254,271,424,673.49,0
+Month_12,SKU_017,Plant_North,Casting,Precision Eng,7,424,252,233,405,673.49,0
+Month_01,SKU_018,Plant_South,Wiring,Apex Supply,8,252,131,137,258,14.66,0
+Month_02,SKU_018,Plant_South,Wiring,Apex Supply,8,258,153,167,272,14.66,0
+Month_03,SKU_018,Plant_South,Wiring,Apex Supply,8,272,225,219,266,14.66,0
+Month_04,SKU_018,Plant_South,Wiring,Apex Supply,8,266,225,222,263,14.66,0
+Month_05,SKU_018,Plant_South,Wiring,Apex Supply,8,263,225,206,244,14.66,0
+Month_06,SKU_018,Plant_South,Wiring,Apex Supply,8,244,392,397,249,14.66,0
+Month_07,SKU_018,Plant_South,Wiring,Apex Supply,8,249,228,237,258,14.66,0
+Month_08,SKU_018,Plant_South,Wiring,Apex Supply,8,258,256,275,277,14.66,0
+Month_09,SKU_018,Plant_South,Wiring,Apex Supply,8,277,247,252,282,14.66,0
+Month_10,SKU_018,Plant_South,Wiring,Apex Supply,8,282,232,213,263,14.66,0
+Month_11,SKU_018,Plant_South,Wiring,Apex Supply,12,263,184,144,223,14.66,1
+Month_12,SKU_018,Plant_South,Wiring,Apex Supply,8,223,237,233,219,14.66,0
+Month_01,SKU_019,Plant_North,Casting,Precision Eng,8,489,161,158,486,369.21,0
+Month_02,SKU_019,Plant_North,Casting,Precision Eng,8,486,188,194,492,369.21,0
+Month_03,SKU_019,Plant_North,Casting,Precision Eng,8,492,175,160,477,369.21,0
+Month_04,SKU_019,Plant_North,Casting,Precision Eng,8,477,204,218,491,369.21,0
+Month_05,SKU_019,Plant_North,Casting,Precision Eng,10,491,315,280,456,369.21,1
+Month_06,SKU_019,Plant_North,Casting,Precision Eng,8,456,106,88,438,369.21,0
+Month_07,SKU_019,Plant_North,Casting,Precision Eng,8,438,234,229,433,369.21,0
+Month_08,SKU_019,Plant_North,Casting,Precision Eng,8,433,119,100,414,369.21,0
+Month_09,SKU_019,Plant_North,Casting,Precision Eng,8,414,176,171,409,369.21,0
+Month_10,SKU_019,Plant_North,Casting,Precision Eng,13,409,254,211,366,369.21,1
+Month_11,SKU_019,Plant_North,Casting,Precision Eng,8,366,203,212,375,369.21,0
+Month_12,SKU_019,Plant_North,Casting,Precision Eng,8,375,146,149,378,369.21,0
+Month_01,SKU_020,Plant_West,Electronics,Swift Mfg,14,158,164,154,148,771.35,0
+Month_02,SKU_020,Plant_West,Electronics,Swift Mfg,14,148,233,219,134,771.35,0
+Month_03,SKU_020,Plant_West,Electronics,Swift Mfg,14,134,163,162,133,771.35,0
+Month_04,SKU_020,Plant_West,Electronics,Swift Mfg,14,133,210,214,137,771.35,0
+Month_05,SKU_020,Plant_West,Electronics,Swift Mfg,14,137,202,194,129,771.35,0
+Month_06,SKU_020,Plant_West,Electronics,Swift Mfg,16,129,167,139,101,771.35,1
+Month_07,SKU_020,Plant_West,Electronics,Swift Mfg,19,101,307,262,56,771.35,1
+Month_08,SKU_020,Plant_West,Electronics,Swift Mfg,14,56,231,247,72,771.35,0
+Month_09,SKU_020,Plant_West,Electronics,Swift Mfg,14,72,98,100,74,771.35,0
+Month_10,SKU_020,Plant_West,Electronics,Swift Mfg,14,74,209,212,77,771.35,0
+Month_11,SKU_020,Plant_West,Electronics,Swift Mfg,15,77,166,137,48,771.35,1
+Month_12,SKU_020,Plant_West,Electronics,Swift Mfg,14,48,242,253,59,771.35,0
+Month_01,SKU_021,Plant_South,Fasteners,Apex Supply,10,462,160,151,453,512.11,0
+Month_02,SKU_021,Plant_South,Fasteners,Apex Supply,10,453,194,191,450,512.11,0
+Month_03,SKU_021,Plant_South,Fasteners,Apex Supply,10,450,225,239,464,512.11,0
+Month_04,SKU_021,Plant_South,Fasteners,Apex Supply,10,464,243,252,473,512.11,0
+Month_05,SKU_021,Plant_South,Fasteners,Apex Supply,10,473,139,156,490,512.11,0
+Month_06,SKU_021,Plant_South,Fasteners,Apex Supply,10,490,183,178,485,512.11,0
+Month_07,SKU_021,Plant_South,Fasteners,Apex Supply,10,485,176,161,470,512.11,0
+Month_08,SKU_021,Plant_South,Fasteners,Apex Supply,10,470,167,175,478,512.11,0
+Month_09,SKU_021,Plant_South,Fasteners,Apex Supply,10,478,288,297,487,512.11,0
+Month_10,SKU_021,Plant_South,Fasteners,Apex Supply,10,487,220,224,491,512.11,0
+Month_11,SKU_021,Plant_South,Fasteners,Apex Supply,10,491,136,147,502,512.11,0
+Month_12,SKU_021,Plant_South,Fasteners,Apex Supply,10,502,245,236,493,512.11,0
+Month_01,SKU_022,Plant_South,Casting,Global Parts Inc,8,243,306,303,240,640.29,0
+Month_02,SKU_022,Plant_South,Casting,Global Parts Inc,8,240,251,264,253,640.29,0
+Month_03,SKU_022,Plant_South,Casting,Global Parts Inc,8,253,124,109,238,640.29,0
+Month_04,SKU_022,Plant_South,Casting,Global Parts Inc,8,238,175,181,244,640.29,0
+Month_05,SKU_022,Plant_South,Casting,Global Parts Inc,8,244,263,258,239,640.29,0
+Month_06,SKU_022,Plant_South,Casting,Global Parts Inc,8,239,164,175,250,640.29,0
+Month_07,SKU_022,Plant_South,Casting,Global Parts Inc,8,250,222,203,231,640.29,0
+Month_08,SKU_022,Plant_South,Casting,Global Parts Inc,10,231,238,177,170,640.29,1
+Month_09,SKU_022,Plant_South,Casting,Global Parts Inc,8,170,153,170,187,640.29,0
+Month_10,SKU_022,Plant_South,Casting,Global Parts Inc,8,187,197,212,202,640.29,0
+Month_11,SKU_022,Plant_South,Casting,Global Parts Inc,8,202,37,44,209,640.29,0
+Month_12,SKU_022,Plant_South,Casting,Global Parts Inc,8,209,148,163,224,640.29,0
+Month_01,SKU_023,Plant_West,Machined Parts,Precision Eng,7,228,187,179,220,368.46,0
+Month_02,SKU_023,Plant_West,Machined Parts,Precision Eng,7,220,137,151,234,368.46,0
+Month_03,SKU_023,Plant_West,Machined Parts,Precision Eng,7,234,281,272,225,368.46,0
+Month_04,SKU_023,Plant_West,Machined Parts,Precision Eng,7,225,128,138,235,368.46,0
+Month_05,SKU_023,Plant_West,Machined Parts,Precision Eng,7,235,177,194,252,368.46,0
+Month_06,SKU_023,Plant_West,Machined Parts,Precision Eng,7,252,206,219,265,368.46,0
+Month_07,SKU_023,Plant_West,Machined Parts,Precision Eng,7,265,272,258,251,368.46,0
+Month_08,SKU_023,Plant_West,Machined Parts,Precision Eng,7,251,128,126,249,368.46,0
+Month_09,SKU_023,Plant_West,Machined Parts,Precision Eng,7,249,258,249,240,368.46,0
+Month_10,SKU_023,Plant_West,Machined Parts,Precision Eng,7,240,200,214,254,368.46,0
+Month_11,SKU_023,Plant_West,Machined Parts,Precision Eng,8,254,150,106,210,368.46,1
+Month_12,SKU_023,Plant_West,Machined Parts,Precision Eng,7,210,223,211,198,368.46,0
+Month_01,SKU_024,Plant_North,Casting,Prime Logistics,10,345,209,200,336,463.51,0
+Month_02,SKU_024,Plant_North,Casting,Prime Logistics,10,336,169,165,332,463.51,0
+Month_03,SKU_024,Plant_North,Casting,Prime Logistics,10,332,203,213,342,463.51,0
+Month_04,SKU_024,Plant_North,Casting,Prime Logistics,14,342,180,128,290,463.51,1
+Month_05,SKU_024,Plant_North,Casting,Prime Logistics,11,290,205,169,254,463.51,1
+Month_06,SKU_024,Plant_North,Casting,Prime Logistics,10,254,233,249,270,463.51,0
+Month_07,SKU_024,Plant_North,Casting,Prime Logistics,10,270,279,264,255,463.51,0
+Month_08,SKU_024,Plant_North,Casting,Prime Logistics,10,255,138,125,242,463.51,0
+Month_09,SKU_024,Plant_North,Casting,Prime Logistics,10,242,306,312,248,463.51,0
+Month_10,SKU_024,Plant_North,Casting,Prime Logistics,10,248,102,121,267,463.51,0
+Month_11,SKU_024,Plant_North,Casting,Prime Logistics,10,267,192,205,280,463.51,0
+Month_12,SKU_024,Plant_North,Casting,Prime Logistics,10,280,229,237,288,463.51,0
+Month_01,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,130,214,200,116,251.25,0
+Month_02,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,116,168,161,109,251.25,0
+Month_03,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,109,189,185,105,251.25,0
+Month_04,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,105,175,165,95,251.25,0
+Month_05,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,95,170,185,110,251.25,0
+Month_06,SKU_025,Plant_South,Machined Parts,Swift Mfg,16,110,242,169,37,251.25,1
+Month_07,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,37,217,227,47,251.25,0
+Month_08,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,47,165,159,41,251.25,0
+Month_09,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,41,244,242,39,251.25,0
+Month_10,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,39,215,224,48,251.25,0
+Month_11,SKU_025,Plant_South,Machined Parts,Swift Mfg,15,48,240,179,-13,251.25,1
+Month_12,SKU_025,Plant_South,Machined Parts,Swift Mfg,12,-13,231,251,7,251.25,0
+Month_01,SKU_026,Plant_South,Wiring,Global Parts Inc,8,431,158,118,391,100.67,1
+Month_02,SKU_026,Plant_South,Wiring,Global Parts Inc,9,391,171,125,345,100.67,1
+Month_03,SKU_026,Plant_South,Wiring,Global Parts Inc,6,345,237,253,361,100.67,0
+Month_04,SKU_026,Plant_South,Wiring,Global Parts Inc,6,361,230,238,369,100.67,0
+Month_05,SKU_026,Plant_South,Wiring,Global Parts Inc,10,369,198,165,336,100.67,1
+Month_06,SKU_026,Plant_South,Wiring,Global Parts Inc,6,336,205,217,348,100.67,0
+Month_07,SKU_026,Plant_South,Wiring,Global Parts Inc,6,348,263,271,356,100.67,0
+Month_08,SKU_026,Plant_South,Wiring,Global Parts Inc,10,356,170,120,306,100.67,1
+Month_09,SKU_026,Plant_South,Wiring,Global Parts Inc,6,306,227,245,324,100.67,0
+Month_10,SKU_026,Plant_South,Wiring,Global Parts Inc,6,324,189,174,309,100.67,0
+Month_11,SKU_026,Plant_South,Wiring,Global Parts Inc,6,309,189,205,325,100.67,0
+Month_12,SKU_026,Plant_South,Wiring,Global Parts Inc,6,325,254,235,306,100.67,0
+Month_01,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,340,241,249,348,612.86,0
+Month_02,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,348,240,231,339,612.86,0
+Month_03,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,339,265,272,346,612.86,0
+Month_04,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,346,201,212,357,612.86,0
+Month_05,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,357,234,244,367,612.86,0
+Month_06,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,367,184,185,368,612.86,0
+Month_07,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,368,216,202,354,612.86,0
+Month_08,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,354,193,194,355,612.86,0
+Month_09,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,355,204,215,366,612.86,0
+Month_10,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,366,229,234,371,612.86,0
+Month_11,SKU_027,Plant_North,Machined Parts,Swift Mfg,5,371,159,174,386,612.86,0
+Month_12,SKU_027,Plant_North,Machined Parts,Swift Mfg,8,386,304,218,300,612.86,1
+Month_01,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,436,149,158,445,693.28,0
+Month_02,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,445,139,131,437,693.28,0
+Month_03,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,437,257,276,456,693.28,0
+Month_04,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,456,239,259,476,693.28,0
+Month_05,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,476,231,214,459,693.28,0
+Month_06,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,459,231,246,474,693.28,0
+Month_07,SKU_028,Plant_South,Machined Parts,Prime Logistics,7,474,199,150,425,693.28,1
+Month_08,SKU_028,Plant_South,Machined Parts,Prime Logistics,8,425,155,138,408,693.28,1
+Month_09,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,408,203,193,398,693.28,0
+Month_10,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,398,166,146,378,693.28,0
+Month_11,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,378,248,233,363,693.28,0
+Month_12,SKU_028,Plant_South,Machined Parts,Prime Logistics,3,363,192,179,350,693.28,0
+Month_01,SKU_029,Plant_West,Casting,Prime Logistics,10,466,158,155,463,667.39,0
+Month_02,SKU_029,Plant_West,Casting,Prime Logistics,10,463,183,193,473,667.39,0
+Month_03,SKU_029,Plant_West,Casting,Prime Logistics,10,473,220,215,468,667.39,0
+Month_04,SKU_029,Plant_West,Casting,Prime Logistics,10,468,171,160,457,667.39,0
+Month_05,SKU_029,Plant_West,Casting,Prime Logistics,10,457,158,176,475,667.39,0
+Month_06,SKU_029,Plant_West,Casting,Prime Logistics,10,475,212,200,463,667.39,0
+Month_07,SKU_029,Plant_West,Casting,Prime Logistics,10,463,212,209,460,667.39,0
+Month_08,SKU_029,Plant_West,Casting,Prime Logistics,10,460,174,180,466,667.39,0
+Month_09,SKU_029,Plant_West,Casting,Prime Logistics,10,466,176,188,478,667.39,0
+Month_10,SKU_029,Plant_West,Casting,Prime Logistics,10,478,211,191,458,667.39,0
+Month_11,SKU_029,Plant_West,Casting,Prime Logistics,10,458,127,126,457,667.39,0
+Month_12,SKU_029,Plant_West,Casting,Prime Logistics,10,457,129,146,474,667.39,0
+Month_01,SKU_030,Plant_South,Casting,Global Parts Inc,8,270,164,178,284,435.48,0
+Month_02,SKU_030,Plant_South,Casting,Global Parts Inc,8,284,189,189,284,435.48,0
+Month_03,SKU_030,Plant_South,Casting,Global Parts Inc,8,284,215,210,279,435.48,0
+Month_04,SKU_030,Plant_South,Casting,Global Parts Inc,8,279,273,267,273,435.48,0
+Month_05,SKU_030,Plant_South,Casting,Global Parts Inc,8,273,242,248,279,435.48,0
+Month_06,SKU_030,Plant_South,Casting,Global Parts Inc,12,279,192,162,249,435.48,1
+Month_07,SKU_030,Plant_South,Casting,Global Parts Inc,8,249,199,188,238,435.48,0
+Month_08,SKU_030,Plant_South,Casting,Global Parts Inc,8,238,149,131,220,435.48,0
+Month_09,SKU_030,Plant_South,Casting,Global Parts Inc,11,220,199,177,198,435.48,1
+Month_10,SKU_030,Plant_South,Casting,Global Parts Inc,8,198,185,193,206,435.48,0
+Month_11,SKU_030,Plant_South,Casting,Global Parts Inc,9,206,216,190,180,435.48,1
+Month_12,SKU_030,Plant_South,Casting,Global Parts Inc,8,180,158,164,186,435.48,0
+Month_01,SKU_031,Plant_South,Electronics,Prime Logistics,7,273,225,230,278,627.4,0
+Month_02,SKU_031,Plant_South,Electronics,Prime Logistics,7,278,276,277,279,627.4,0
+Month_03,SKU_031,Plant_South,Electronics,Prime Logistics,7,279,194,208,293,627.4,0
+Month_04,SKU_031,Plant_South,Electronics,Prime Logistics,7,293,220,220,293,627.4,0
+Month_05,SKU_031,Plant_South,Electronics,Prime Logistics,7,293,234,245,304,627.4,0
+Month_06,SKU_031,Plant_South,Electronics,Prime Logistics,7,304,179,161,286,627.4,0
+Month_07,SKU_031,Plant_South,Electronics,Prime Logistics,7,286,211,206,281,627.4,0
+Month_08,SKU_031,Plant_South,Electronics,Prime Logistics,7,281,200,198,279,627.4,0
+Month_09,SKU_031,Plant_South,Electronics,Prime Logistics,7,279,204,189,264,627.4,0
+Month_10,SKU_031,Plant_South,Electronics,Prime Logistics,7,264,161,147,250,627.4,0
+Month_11,SKU_031,Plant_South,Electronics,Prime Logistics,7,250,201,187,236,627.4,0
+Month_12,SKU_031,Plant_South,Electronics,Prime Logistics,7,236,224,223,235,627.4,0
+Month_01,SKU_032,Plant_South,Fasteners,Prime Logistics,7,283,272,261,272,638.95,0
+Month_02,SKU_032,Plant_South,Fasteners,Prime Logistics,7,272,247,253,278,638.95,0
+Month_03,SKU_032,Plant_South,Fasteners,Prime Logistics,7,278,307,298,269,638.95,0
+Month_04,SKU_032,Plant_South,Fasteners,Prime Logistics,7,269,161,146,254,638.95,0
+Month_05,SKU_032,Plant_South,Fasteners,Prime Logistics,7,254,243,247,258,638.95,0
+Month_06,SKU_032,Plant_South,Fasteners,Prime Logistics,7,258,209,204,253,638.95,0
+Month_07,SKU_032,Plant_South,Fasteners,Prime Logistics,7,253,309,326,270,638.95,0
+Month_08,SKU_032,Plant_South,Fasteners,Prime Logistics,10,270,159,125,236,638.95,1
+Month_09,SKU_032,Plant_South,Fasteners,Prime Logistics,7,236,158,138,216,638.95,0
+Month_10,SKU_032,Plant_South,Fasteners,Prime Logistics,7,216,170,179,225,638.95,0
+Month_11,SKU_032,Plant_South,Fasteners,Prime Logistics,7,225,93,107,239,638.95,0
+Month_12,SKU_032,Plant_South,Fasteners,Prime Logistics,7,239,173,181,247,638.95,0
+Month_01,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,453,162,161,452,514.76,0
+Month_02,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,452,207,211,456,514.76,0
+Month_03,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,456,217,203,442,514.76,0
+Month_04,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,442,293,309,458,514.76,0
+Month_05,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,458,247,245,456,514.76,0
+Month_06,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,456,171,169,454,514.76,0
+Month_07,SKU_033,Plant_South,Machined Parts,Swift Mfg,13,454,155,134,433,514.76,1
+Month_08,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,433,224,240,449,514.76,0
+Month_09,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,449,133,116,432,514.76,0
+Month_10,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,432,291,302,443,514.76,0
+Month_11,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,443,258,256,441,514.76,0
+Month_12,SKU_033,Plant_South,Machined Parts,Swift Mfg,9,441,176,170,435,514.76,0
+Month_01,SKU_034,Plant_North,Wiring,Precision Eng,12,228,114,102,216,512.93,0
+Month_02,SKU_034,Plant_North,Wiring,Precision Eng,12,216,267,287,236,512.93,0
+Month_03,SKU_034,Plant_North,Wiring,Precision Eng,12,236,194,193,235,512.93,0
+Month_04,SKU_034,Plant_North,Wiring,Precision Eng,12,235,261,243,217,512.93,0
+Month_05,SKU_034,Plant_North,Wiring,Precision Eng,12,217,120,108,205,512.93,0
+Month_06,SKU_034,Plant_North,Wiring,Precision Eng,16,205,170,129,164,512.93,1
+Month_07,SKU_034,Plant_North,Wiring,Precision Eng,12,164,200,188,152,512.93,0
+Month_08,SKU_034,Plant_North,Wiring,Precision Eng,12,152,202,205,155,512.93,0
+Month_09,SKU_034,Plant_North,Wiring,Precision Eng,12,155,177,174,152,512.93,0
+Month_10,SKU_034,Plant_North,Wiring,Precision Eng,12,152,231,227,148,512.93,0
+Month_11,SKU_034,Plant_North,Wiring,Precision Eng,12,148,146,156,158,512.93,0
+Month_12,SKU_034,Plant_North,Wiring,Precision Eng,12,158,192,190,156,512.93,0
+Month_01,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,486,206,211,491,770.69,0
+Month_02,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,491,225,240,506,770.69,0
+Month_03,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,506,235,240,511,770.69,0
+Month_04,SKU_035,Plant_South,Machined Parts,Prime Logistics,9,511,143,115,483,770.69,1
+Month_05,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,483,123,119,479,770.69,0
+Month_06,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,479,263,283,499,770.69,0
+Month_07,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,499,216,202,485,770.69,0
+Month_08,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,485,162,172,495,770.69,0
+Month_09,SKU_035,Plant_South,Machined Parts,Prime Logistics,10,495,277,242,460,770.69,1
+Month_10,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,460,205,224,479,770.69,0
+Month_11,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,479,258,242,463,770.69,0
+Month_12,SKU_035,Plant_South,Machined Parts,Prime Logistics,5,463,203,212,472,770.69,0
+Month_01,SKU_036,Plant_North,Machined Parts,Apex Supply,3,255,303,290,242,120.42,0
+Month_02,SKU_036,Plant_North,Machined Parts,Apex Supply,5,242,287,251,206,120.42,1
+Month_03,SKU_036,Plant_North,Machined Parts,Apex Supply,3,206,187,190,209,120.42,0
+Month_04,SKU_036,Plant_North,Machined Parts,Apex Supply,3,209,248,262,223,120.42,0
+Month_05,SKU_036,Plant_North,Machined Parts,Apex Supply,3,223,232,221,212,120.42,0
+Month_06,SKU_036,Plant_North,Machined Parts,Apex Supply,3,212,268,254,198,120.42,0
+Month_07,SKU_036,Plant_North,Machined Parts,Apex Supply,3,198,151,170,217,120.42,0
+Month_08,SKU_036,Plant_North,Machined Parts,Apex Supply,3,217,234,231,214,120.42,0
+Month_09,SKU_036,Plant_North,Machined Parts,Apex Supply,7,214,252,195,157,120.42,1
+Month_10,SKU_036,Plant_North,Machined Parts,Apex Supply,3,157,112,107,152,120.42,0
+Month_11,SKU_036,Plant_North,Machined Parts,Apex Supply,3,152,140,126,138,120.42,0
+Month_12,SKU_036,Plant_North,Machined Parts,Apex Supply,3,138,98,101,141,120.42,0
+Month_01,SKU_037,Plant_North,Wiring,Precision Eng,6,162,186,195,171,324.53,0
+Month_02,SKU_037,Plant_North,Wiring,Precision Eng,11,171,235,174,110,324.53,1
+Month_03,SKU_037,Plant_North,Wiring,Precision Eng,6,110,275,258,93,324.53,0
+Month_04,SKU_037,Plant_North,Wiring,Precision Eng,6,93,203,198,88,324.53,0
+Month_05,SKU_037,Plant_North,Wiring,Precision Eng,6,88,281,297,104,324.53,0
+Month_06,SKU_037,Plant_North,Wiring,Precision Eng,6,104,130,145,119,324.53,0
+Month_07,SKU_037,Plant_North,Wiring,Precision Eng,6,119,114,107,112,324.53,0
+Month_08,SKU_037,Plant_North,Wiring,Precision Eng,6,112,197,191,106,324.53,0
+Month_09,SKU_037,Plant_North,Wiring,Precision Eng,6,106,219,208,95,324.53,0
+Month_10,SKU_037,Plant_North,Wiring,Precision Eng,6,95,198,216,113,324.53,0
+Month_11,SKU_037,Plant_North,Wiring,Precision Eng,8,113,96,83,100,324.53,1
+Month_12,SKU_037,Plant_North,Wiring,Precision Eng,6,100,195,209,114,324.53,0
+Month_01,SKU_038,Plant_North,Machined Parts,Global Parts Inc,5,167,134,114,147,532.24,1
+Month_02,SKU_038,Plant_North,Machined Parts,Global Parts Inc,3,147,233,214,128,532.24,0
+Month_03,SKU_038,Plant_North,Machined Parts,Global Parts Inc,3,128,218,201,111,532.24,0
+Month_04,SKU_038,Plant_North,Machined Parts,Global Parts Inc,4,111,153,119,77,532.24,1
+Month_05,SKU_038,Plant_North,Machined Parts,Global Parts Inc,3,77,174,184,87,532.24,0
+Month_06,SKU_038,Plant_North,Machined Parts,Global Parts Inc,3,87,147,150,90,532.24,0
+Month_07,SKU_038,Plant_North,Machined Parts,Global Parts Inc,3,90,196,182,76,532.24,0
+Month_08,SKU_038,Plant_North,Machined Parts,Global Parts Inc,3,76,247,241,70,532.24,0
+Month_09,SKU_038,Plant_North,Machined Parts,Global Parts Inc,3,70,150,132,52,532.24,0
+Month_10,SKU_038,Plant_North,Machined Parts,Global Parts Inc,3,52,225,238,65,532.24,0
+Month_11,SKU_038,Plant_North,Machined Parts,Global Parts Inc,3,65,173,154,46,532.24,0
+Month_12,SKU_038,Plant_North,Machined Parts,Global Parts Inc,7,46,160,127,13,532.24,1
+Month_01,SKU_039,Plant_South,Casting,Prime Logistics,10,137,194,194,137,572.8,0
+Month_02,SKU_039,Plant_South,Casting,Prime Logistics,10,137,148,132,121,572.8,0
+Month_03,SKU_039,Plant_South,Casting,Prime Logistics,15,121,172,141,90,572.8,1
+Month_04,SKU_039,Plant_South,Casting,Prime Logistics,10,90,140,140,90,572.8,0
+Month_05,SKU_039,Plant_South,Casting,Prime Logistics,10,90,298,316,108,572.8,0
+Month_06,SKU_039,Plant_South,Casting,Prime Logistics,10,108,201,210,117,572.8,0
+Month_07,SKU_039,Plant_South,Casting,Prime Logistics,10,117,165,172,124,572.8,0
+Month_08,SKU_039,Plant_South,Casting,Prime Logistics,15,124,210,176,90,572.8,1
+Month_09,SKU_039,Plant_South,Casting,Prime Logistics,10,90,194,187,83,572.8,0
+Month_10,SKU_039,Plant_South,Casting,Prime Logistics,10,83,188,182,77,572.8,0
+Month_11,SKU_039,Plant_South,Casting,Prime Logistics,10,77,230,239,86,572.8,0
+Month_12,SKU_039,Plant_South,Casting,Prime Logistics,10,86,237,223,72,572.8,0
+Month_01,SKU_040,Plant_South,Machined Parts,Apex Supply,8,178,173,183,188,535.44,0
+Month_02,SKU_040,Plant_South,Machined Parts,Apex Supply,9,188,171,148,165,535.44,1
+Month_03,SKU_040,Plant_South,Machined Parts,Apex Supply,8,165,186,189,168,535.44,0
+Month_04,SKU_040,Plant_South,Machined Parts,Apex Supply,8,168,84,99,183,535.44,0
+Month_05,SKU_040,Plant_South,Machined Parts,Apex Supply,13,183,124,110,169,535.44,1
+Month_06,SKU_040,Plant_South,Machined Parts,Apex Supply,8,169,268,255,156,535.44,0
+Month_07,SKU_040,Plant_South,Machined Parts,Apex Supply,8,156,282,289,163,535.44,0
+Month_08,SKU_040,Plant_South,Machined Parts,Apex Supply,8,163,187,170,146,535.44,0
+Month_09,SKU_040,Plant_South,Machined Parts,Apex Supply,8,146,228,246,164,535.44,0
+Month_10,SKU_040,Plant_South,Machined Parts,Apex Supply,8,164,215,201,150,535.44,0
+Month_11,SKU_040,Plant_South,Machined Parts,Apex Supply,8,150,353,346,143,535.44,0
+Month_12,SKU_040,Plant_South,Machined Parts,Apex Supply,8,143,255,265,153,535.44,0
+Month_01,SKU_041,Plant_South,Electronics,Prime Logistics,8,158,193,209,174,677.85,0
+Month_02,SKU_041,Plant_South,Electronics,Prime Logistics,8,174,152,159,181,677.85,0
+Month_03,SKU_041,Plant_South,Electronics,Prime Logistics,8,181,119,138,200,677.85,0
+Month_04,SKU_041,Plant_South,Electronics,Prime Logistics,8,200,210,225,215,677.85,0
+Month_05,SKU_041,Plant_South,Electronics,Prime Logistics,11,215,162,143,196,677.85,1
+Month_06,SKU_041,Plant_South,Electronics,Prime Logistics,11,196,128,96,164,677.85,1
+Month_07,SKU_041,Plant_South,Electronics,Prime Logistics,8,164,167,169,166,677.85,0
+Month_08,SKU_041,Plant_South,Electronics,Prime Logistics,13,166,145,126,147,677.85,1
+Month_09,SKU_041,Plant_South,Electronics,Prime Logistics,8,147,284,268,131,677.85,0
+Month_10,SKU_041,Plant_South,Electronics,Prime Logistics,9,131,244,201,88,677.85,1
+Month_11,SKU_041,Plant_South,Electronics,Prime Logistics,12,88,199,160,49,677.85,1
+Month_12,SKU_041,Plant_South,Electronics,Prime Logistics,8,49,273,274,50,677.85,0
+Month_01,SKU_042,Plant_South,Electronics,Precision Eng,14,405,203,144,346,580.06,1
+Month_02,SKU_042,Plant_South,Electronics,Precision Eng,12,346,156,139,329,580.06,0
+Month_03,SKU_042,Plant_South,Electronics,Precision Eng,12,329,276,273,326,580.06,0
+Month_04,SKU_042,Plant_South,Electronics,Precision Eng,12,326,226,233,333,580.06,0
+Month_05,SKU_042,Plant_South,Electronics,Precision Eng,12,333,148,156,341,580.06,0
+Month_06,SKU_042,Plant_South,Electronics,Precision Eng,12,341,190,183,334,580.06,0
+Month_07,SKU_042,Plant_South,Electronics,Precision Eng,12,334,156,143,321,580.06,0
+Month_08,SKU_042,Plant_South,Electronics,Precision Eng,12,321,130,117,308,580.06,0
+Month_09,SKU_042,Plant_South,Electronics,Precision Eng,12,308,246,263,325,580.06,0
+Month_10,SKU_042,Plant_South,Electronics,Precision Eng,12,325,295,294,324,580.06,0
+Month_11,SKU_042,Plant_South,Electronics,Precision Eng,17,324,130,101,295,580.06,1
+Month_12,SKU_042,Plant_South,Electronics,Precision Eng,14,295,228,168,235,580.06,1
+Month_01,SKU_043,Plant_South,Electronics,Precision Eng,3,354,167,158,345,269.22,0
+Month_02,SKU_043,Plant_South,Electronics,Precision Eng,5,345,175,141,311,269.22,1
+Month_03,SKU_043,Plant_South,Electronics,Precision Eng,3,311,170,172,313,269.22,0
+Month_04,SKU_043,Plant_South,Electronics,Precision Eng,4,313,156,136,293,269.22,1
+Month_05,SKU_043,Plant_South,Electronics,Precision Eng,3,293,202,211,302,269.22,0
+Month_06,SKU_043,Plant_South,Electronics,Precision Eng,3,302,158,158,302,269.22,0
+Month_07,SKU_043,Plant_South,Electronics,Precision Eng,3,302,213,229,318,269.22,0
+Month_08,SKU_043,Plant_South,Electronics,Precision Eng,3,318,197,217,338,269.22,0
+Month_09,SKU_043,Plant_South,Electronics,Precision Eng,3,338,188,175,325,269.22,0
+Month_10,SKU_043,Plant_South,Electronics,Precision Eng,3,325,154,154,325,269.22,0
+Month_11,SKU_043,Plant_South,Electronics,Precision Eng,3,325,171,190,344,269.22,0
+Month_12,SKU_043,Plant_South,Electronics,Precision Eng,3,344,237,240,347,269.22,0
+Month_01,SKU_044,Plant_North,Fasteners,Apex Supply,12,305,225,230,310,202.22,0
+Month_02,SKU_044,Plant_North,Fasteners,Apex Supply,12,310,151,152,311,202.22,0
+Month_03,SKU_044,Plant_North,Fasteners,Apex Supply,12,311,204,194,301,202.22,0
+Month_04,SKU_044,Plant_North,Fasteners,Apex Supply,17,301,237,195,259,202.22,1
+Month_05,SKU_044,Plant_North,Fasteners,Apex Supply,12,259,116,118,261,202.22,0
+Month_06,SKU_044,Plant_North,Fasteners,Apex Supply,12,261,227,216,250,202.22,0
+Month_07,SKU_044,Plant_North,Fasteners,Apex Supply,12,250,166,155,239,202.22,0
+Month_08,SKU_044,Plant_North,Fasteners,Apex Supply,12,239,228,219,230,202.22,0
+Month_09,SKU_044,Plant_North,Fasteners,Apex Supply,12,230,161,145,214,202.22,0
+Month_10,SKU_044,Plant_North,Fasteners,Apex Supply,12,214,109,129,234,202.22,0
+Month_11,SKU_044,Plant_North,Fasteners,Apex Supply,12,234,118,134,250,202.22,0
+Month_12,SKU_044,Plant_North,Fasteners,Apex Supply,12,250,202,210,258,202.22,0
+Month_01,SKU_045,Plant_South,Wiring,Swift Mfg,13,261,212,196,245,692.76,0
+Month_02,SKU_045,Plant_South,Wiring,Swift Mfg,13,245,154,174,265,692.76,0
+Month_03,SKU_045,Plant_South,Wiring,Swift Mfg,13,265,231,228,262,692.76,0
+Month_04,SKU_045,Plant_South,Wiring,Swift Mfg,13,262,116,118,264,692.76,0
+Month_05,SKU_045,Plant_South,Wiring,Swift Mfg,13,264,196,195,263,692.76,0
+Month_06,SKU_045,Plant_South,Wiring,Swift Mfg,13,263,139,121,245,692.76,0
+Month_07,SKU_045,Plant_South,Wiring,Swift Mfg,14,245,167,144,222,692.76,1
+Month_08,SKU_045,Plant_South,Wiring,Swift Mfg,13,222,202,187,207,692.76,0
+Month_09,SKU_045,Plant_South,Wiring,Swift Mfg,13,207,156,168,219,692.76,0
+Month_10,SKU_045,Plant_South,Wiring,Swift Mfg,13,219,180,197,236,692.76,0
+Month_11,SKU_045,Plant_South,Wiring,Swift Mfg,13,236,250,232,218,692.76,0
+Month_12,SKU_045,Plant_South,Wiring,Swift Mfg,13,218,171,187,234,692.76,0
+Month_01,SKU_046,Plant_West,Electronics,Precision Eng,5,131,241,242,132,385.75,0
+Month_02,SKU_046,Plant_West,Electronics,Precision Eng,5,132,143,128,117,385.75,0
+Month_03,SKU_046,Plant_West,Electronics,Precision Eng,5,117,226,217,108,385.75,0
+Month_04,SKU_046,Plant_West,Electronics,Precision Eng,9,108,272,228,64,385.75,1
+Month_05,SKU_046,Plant_West,Electronics,Precision Eng,5,64,76,95,83,385.75,0
+Month_06,SKU_046,Plant_West,Electronics,Precision Eng,5,83,160,163,86,385.75,0
+Month_07,SKU_046,Plant_West,Electronics,Precision Eng,5,86,228,232,90,385.75,0
+Month_08,SKU_046,Plant_West,Electronics,Precision Eng,5,90,189,190,91,385.75,0
+Month_09,SKU_046,Plant_West,Electronics,Precision Eng,5,91,218,201,74,385.75,0
+Month_10,SKU_046,Plant_West,Electronics,Precision Eng,5,74,169,170,75,385.75,0
+Month_11,SKU_046,Plant_West,Electronics,Precision Eng,9,75,204,146,17,385.75,1
+Month_12,SKU_046,Plant_West,Electronics,Precision Eng,5,17,192,210,35,385.75,0
+Month_01,SKU_047,Plant_North,Electronics,Precision Eng,5,279,258,263,284,470.36,0
+Month_02,SKU_047,Plant_North,Electronics,Precision Eng,6,284,212,178,250,470.36,1
+Month_03,SKU_047,Plant_North,Electronics,Precision Eng,5,250,216,220,254,470.36,0
+Month_04,SKU_047,Plant_North,Electronics,Precision Eng,5,254,179,180,255,470.36,0
+Month_05,SKU_047,Plant_North,Electronics,Precision Eng,5,255,175,188,268,470.36,0
+Month_06,SKU_047,Plant_North,Electronics,Precision Eng,10,268,178,148,238,470.36,1
+Month_07,SKU_047,Plant_North,Electronics,Precision Eng,5,238,219,222,241,470.36,0
+Month_08,SKU_047,Plant_North,Electronics,Precision Eng,5,241,178,171,234,470.36,0
+Month_09,SKU_047,Plant_North,Electronics,Precision Eng,5,234,214,225,245,470.36,0
+Month_10,SKU_047,Plant_North,Electronics,Precision Eng,5,245,303,291,233,470.36,0
+Month_11,SKU_047,Plant_North,Electronics,Precision Eng,5,233,243,241,231,470.36,0
+Month_12,SKU_047,Plant_North,Electronics,Precision Eng,5,231,183,169,217,470.36,0
+Month_01,SKU_048,Plant_West,Wiring,Swift Mfg,3,438,260,279,457,708.11,0
+Month_02,SKU_048,Plant_West,Wiring,Swift Mfg,5,457,179,138,416,708.11,1
+Month_03,SKU_048,Plant_West,Wiring,Swift Mfg,3,416,98,117,435,708.11,0
+Month_04,SKU_048,Plant_West,Wiring,Swift Mfg,3,435,149,139,425,708.11,0
+Month_05,SKU_048,Plant_West,Wiring,Swift Mfg,3,425,106,88,407,708.11,0
+Month_06,SKU_048,Plant_West,Wiring,Swift Mfg,3,407,182,177,402,708.11,0
+Month_07,SKU_048,Plant_West,Wiring,Swift Mfg,3,402,200,219,421,708.11,0
+Month_08,SKU_048,Plant_West,Wiring,Swift Mfg,3,421,283,291,429,708.11,0
+Month_09,SKU_048,Plant_West,Wiring,Swift Mfg,3,429,216,211,424,708.11,0
+Month_10,SKU_048,Plant_West,Wiring,Swift Mfg,3,424,189,199,434,708.11,0
+Month_11,SKU_048,Plant_West,Wiring,Swift Mfg,3,434,241,233,426,708.11,0
+Month_12,SKU_048,Plant_West,Wiring,Swift Mfg,3,426,89,105,442,708.11,0
+Month_01,SKU_049,Plant_South,Casting,Apex Supply,11,370,211,201,360,624.72,0
+Month_02,SKU_049,Plant_South,Casting,Apex Supply,11,360,238,256,378,624.72,0
+Month_03,SKU_049,Plant_South,Casting,Apex Supply,15,378,126,94,346,624.72,1
+Month_04,SKU_049,Plant_South,Casting,Apex Supply,11,346,257,272,361,624.72,0
+Month_05,SKU_049,Plant_South,Casting,Apex Supply,11,361,216,229,374,624.72,0
+Month_06,SKU_049,Plant_South,Casting,Apex Supply,11,374,179,177,372,624.72,0
+Month_07,SKU_049,Plant_South,Casting,Apex Supply,15,372,231,169,310,624.72,1
+Month_08,SKU_049,Plant_South,Casting,Apex Supply,11,310,313,302,299,624.72,0
+Month_09,SKU_049,Plant_South,Casting,Apex Supply,11,299,209,194,284,624.72,0
+Month_10,SKU_049,Plant_South,Casting,Apex Supply,11,284,212,206,278,624.72,0
+Month_11,SKU_049,Plant_South,Casting,Apex Supply,11,278,177,179,280,624.72,0
+Month_12,SKU_049,Plant_South,Casting,Apex Supply,11,280,157,163,286,624.72,0
+Month_01,SKU_050,Plant_West,Fasteners,Apex Supply,9,141,241,222,122,305.43,0
+Month_02,SKU_050,Plant_West,Fasteners,Apex Supply,9,122,157,143,108,305.43,0
+Month_03,SKU_050,Plant_West,Fasteners,Apex Supply,9,108,203,204,109,305.43,0
+Month_04,SKU_050,Plant_West,Fasteners,Apex Supply,9,109,176,164,97,305.43,0
+Month_05,SKU_050,Plant_West,Fasteners,Apex Supply,13,97,223,197,71,305.43,1
+Month_06,SKU_050,Plant_West,Fasteners,Apex Supply,9,71,216,204,59,305.43,0
+Month_07,SKU_050,Plant_West,Fasteners,Apex Supply,9,59,251,261,69,305.43,0
+Month_08,SKU_050,Plant_West,Fasteners,Apex Supply,9,69,174,154,49,305.43,0
+Month_09,SKU_050,Plant_West,Fasteners,Apex Supply,9,49,186,167,30,305.43,0
+Month_10,SKU_050,Plant_West,Fasteners,Apex Supply,9,30,151,140,19,305.43,0
+Month_11,SKU_050,Plant_West,Fasteners,Apex Supply,9,19,177,195,37,305.43,0
+Month_12,SKU_050,Plant_West,Fasteners,Apex Supply,9,37,218,205,24,305.43,0
+Month_01,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,314,237,256,333,106.26,0
+Month_02,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,333,153,140,320,106.26,0
+Month_03,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,320,243,254,331,106.26,0
+Month_04,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,331,267,248,312,106.26,0
+Month_05,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,312,220,236,328,106.26,0
+Month_06,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,328,293,282,317,106.26,0
+Month_07,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,317,161,141,297,106.26,0
+Month_08,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,297,137,132,292,106.26,0
+Month_09,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,292,111,102,283,106.26,0
+Month_10,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,283,274,259,268,106.26,0
+Month_11,SKU_051,Plant_South,Machined Parts,Global Parts Inc,6,268,232,235,271,106.26,0
+Month_12,SKU_051,Plant_South,Machined Parts,Global Parts Inc,11,271,197,158,232,106.26,1
+Month_01,SKU_052,Plant_North,Wiring,Swift Mfg,10,122,213,216,125,318.46,0
+Month_02,SKU_052,Plant_North,Wiring,Swift Mfg,10,125,143,124,106,318.46,0
+Month_03,SKU_052,Plant_North,Wiring,Swift Mfg,10,106,322,306,90,318.46,0
+Month_04,SKU_052,Plant_North,Wiring,Swift Mfg,10,90,206,226,110,318.46,0
+Month_05,SKU_052,Plant_North,Wiring,Swift Mfg,13,110,205,167,72,318.46,1
+Month_06,SKU_052,Plant_North,Wiring,Swift Mfg,13,72,236,181,17,318.46,1
+Month_07,SKU_052,Plant_North,Wiring,Swift Mfg,10,17,224,215,8,318.46,0
+Month_08,SKU_052,Plant_North,Wiring,Swift Mfg,10,8,211,220,17,318.46,0
+Month_09,SKU_052,Plant_North,Wiring,Swift Mfg,10,17,160,170,27,318.46,0
+Month_10,SKU_052,Plant_North,Wiring,Swift Mfg,10,27,223,211,15,318.46,0
+Month_11,SKU_052,Plant_North,Wiring,Swift Mfg,14,15,294,251,-28,318.46,1
+Month_12,SKU_052,Plant_North,Wiring,Swift Mfg,12,-28,267,197,-98,318.46,1
+Month_01,SKU_053,Plant_South,Fasteners,Precision Eng,11,342,279,271,334,417.15,0
+Month_02,SKU_053,Plant_South,Fasteners,Precision Eng,11,334,174,157,317,417.15,0
+Month_03,SKU_053,Plant_South,Fasteners,Precision Eng,11,317,150,151,318,417.15,0
+Month_04,SKU_053,Plant_South,Fasteners,Precision Eng,11,318,193,196,321,417.15,0
+Month_05,SKU_053,Plant_South,Fasteners,Precision Eng,11,321,202,207,326,417.15,0
+Month_06,SKU_053,Plant_South,Fasteners,Precision Eng,11,326,254,258,330,417.15,0
+Month_07,SKU_053,Plant_South,Fasteners,Precision Eng,11,330,115,106,321,417.15,0
+Month_08,SKU_053,Plant_South,Fasteners,Precision Eng,11,321,276,287,332,417.15,0
+Month_09,SKU_053,Plant_South,Fasteners,Precision Eng,11,332,192,205,345,417.15,0
+Month_10,SKU_053,Plant_South,Fasteners,Precision Eng,11,345,178,163,330,417.15,0
+Month_11,SKU_053,Plant_South,Fasteners,Precision Eng,11,330,149,134,315,417.15,0
+Month_12,SKU_053,Plant_South,Fasteners,Precision Eng,11,315,117,108,306,417.15,0
+Month_01,SKU_054,Plant_South,Wiring,Precision Eng,8,438,241,249,446,91.05,0
+Month_02,SKU_054,Plant_South,Wiring,Precision Eng,8,446,203,210,453,91.05,0
+Month_03,SKU_054,Plant_South,Wiring,Precision Eng,8,453,135,143,461,91.05,0
+Month_04,SKU_054,Plant_South,Wiring,Precision Eng,8,461,135,117,443,91.05,0
+Month_05,SKU_054,Plant_South,Wiring,Precision Eng,8,443,183,185,445,91.05,0
+Month_06,SKU_054,Plant_South,Wiring,Precision Eng,8,445,283,290,452,91.05,0
+Month_07,SKU_054,Plant_South,Wiring,Precision Eng,8,452,187,170,435,91.05,0
+Month_08,SKU_054,Plant_South,Wiring,Precision Eng,11,435,124,102,413,91.05,1
+Month_09,SKU_054,Plant_South,Wiring,Precision Eng,8,413,187,177,403,91.05,0
+Month_10,SKU_054,Plant_South,Wiring,Precision Eng,8,403,186,175,392,91.05,0
+Month_11,SKU_054,Plant_South,Wiring,Precision Eng,8,392,65,73,400,91.05,0
+Month_12,SKU_054,Plant_South,Wiring,Precision Eng,11,400,197,140,343,91.05,1
+Month_01,SKU_055,Plant_West,Machined Parts,Apex Supply,5,447,188,191,450,35.58,0
+Month_02,SKU_055,Plant_West,Machined Parts,Apex Supply,5,450,234,218,434,35.58,0
+Month_03,SKU_055,Plant_West,Machined Parts,Apex Supply,5,434,292,305,447,35.58,0
+Month_04,SKU_055,Plant_West,Machined Parts,Apex Supply,5,447,256,256,447,35.58,0
+Month_05,SKU_055,Plant_West,Machined Parts,Apex Supply,5,447,186,181,442,35.58,0
+Month_06,SKU_055,Plant_West,Machined Parts,Apex Supply,5,442,144,125,423,35.58,0
+Month_07,SKU_055,Plant_West,Machined Parts,Apex Supply,5,423,328,339,434,35.58,0
+Month_08,SKU_055,Plant_West,Machined Parts,Apex Supply,5,434,202,217,449,35.58,0
+Month_09,SKU_055,Plant_West,Machined Parts,Apex Supply,9,449,200,170,419,35.58,1
+Month_10,SKU_055,Plant_West,Machined Parts,Apex Supply,5,419,198,217,438,35.58,0
+Month_11,SKU_055,Plant_West,Machined Parts,Apex Supply,5,438,209,220,449,35.58,0
+Month_12,SKU_055,Plant_West,Machined Parts,Apex Supply,5,449,192,180,437,35.58,0
+Month_01,SKU_056,Plant_North,Fasteners,Apex Supply,10,144,171,171,144,719.96,0
+Month_02,SKU_056,Plant_North,Fasteners,Apex Supply,10,144,172,156,128,719.96,0
+Month_03,SKU_056,Plant_North,Fasteners,Apex Supply,10,128,198,196,126,719.96,0
+Month_04,SKU_056,Plant_North,Fasteners,Apex Supply,10,126,172,162,116,719.96,0
+Month_05,SKU_056,Plant_North,Fasteners,Apex Supply,10,116,164,184,136,719.96,0
+Month_06,SKU_056,Plant_North,Fasteners,Apex Supply,10,136,205,208,139,719.96,0
+Month_07,SKU_056,Plant_North,Fasteners,Apex Supply,10,139,187,174,126,719.96,0
+Month_08,SKU_056,Plant_North,Fasteners,Apex Supply,10,126,275,263,114,719.96,0
+Month_09,SKU_056,Plant_North,Fasteners,Apex Supply,10,114,67,78,125,719.96,0
+Month_10,SKU_056,Plant_North,Fasteners,Apex Supply,13,125,254,205,76,719.96,1
+Month_11,SKU_056,Plant_North,Fasteners,Apex Supply,10,76,262,277,91,719.96,0
+Month_12,SKU_056,Plant_North,Fasteners,Apex Supply,11,91,96,84,79,719.96,1
+Month_01,SKU_057,Plant_West,Machined Parts,Apex Supply,11,310,182,198,326,577.91,0
+Month_02,SKU_057,Plant_West,Machined Parts,Apex Supply,12,326,181,161,306,577.91,1
+Month_03,SKU_057,Plant_West,Machined Parts,Apex Supply,11,306,129,142,319,577.91,0
+Month_04,SKU_057,Plant_West,Machined Parts,Apex Supply,11,319,161,176,334,577.91,0
+Month_05,SKU_057,Plant_West,Machined Parts,Apex Supply,11,334,144,135,325,577.91,0
+Month_06,SKU_057,Plant_West,Machined Parts,Apex Supply,11,325,287,275,313,577.91,0
+Month_07,SKU_057,Plant_West,Machined Parts,Apex Supply,11,313,246,229,296,577.91,0
+Month_08,SKU_057,Plant_West,Machined Parts,Apex Supply,11,296,263,276,309,577.91,0
+Month_09,SKU_057,Plant_West,Machined Parts,Apex Supply,11,309,236,226,299,577.91,0
+Month_10,SKU_057,Plant_West,Machined Parts,Apex Supply,11,299,143,137,293,577.91,0
+Month_11,SKU_057,Plant_West,Machined Parts,Apex Supply,11,293,173,186,306,577.91,0
+Month_12,SKU_057,Plant_West,Machined Parts,Apex Supply,11,306,224,209,291,577.91,0
+Month_01,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,164,138,157,183,765.52,0
+Month_02,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,183,235,247,195,765.52,0
+Month_03,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,195,187,204,212,765.52,0
+Month_04,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,212,181,170,201,765.52,0
+Month_05,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,201,235,254,220,765.52,0
+Month_06,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,220,222,240,238,765.52,0
+Month_07,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,238,181,197,254,765.52,0
+Month_08,SKU_058,Plant_West,Machined Parts,Global Parts Inc,8,254,257,224,221,765.52,1
+Month_09,SKU_058,Plant_West,Machined Parts,Global Parts Inc,12,221,145,120,196,765.52,1
+Month_10,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,196,230,223,189,765.52,0
+Month_11,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,189,229,235,195,765.52,0
+Month_12,SKU_058,Plant_West,Machined Parts,Global Parts Inc,7,195,184,165,176,765.52,0
+Month_01,SKU_059,Plant_South,Casting,Swift Mfg,7,347,216,221,352,517.11,0
+Month_02,SKU_059,Plant_South,Casting,Swift Mfg,7,352,137,121,336,517.11,0
+Month_03,SKU_059,Plant_South,Casting,Swift Mfg,7,336,246,236,326,517.11,0
+Month_04,SKU_059,Plant_South,Casting,Swift Mfg,7,326,190,200,336,517.11,0
+Month_05,SKU_059,Plant_South,Casting,Swift Mfg,7,336,173,174,337,517.11,0
+Month_06,SKU_059,Plant_South,Casting,Swift Mfg,7,337,252,252,337,517.11,0
+Month_07,SKU_059,Plant_South,Casting,Swift Mfg,7,337,164,164,337,517.11,0
+Month_08,SKU_059,Plant_South,Casting,Swift Mfg,7,337,129,131,339,517.11,0
+Month_09,SKU_059,Plant_South,Casting,Swift Mfg,7,339,122,110,327,517.11,0
+Month_10,SKU_059,Plant_South,Casting,Swift Mfg,7,327,230,242,339,517.11,0
+Month_11,SKU_059,Plant_South,Casting,Swift Mfg,7,339,135,135,339,517.11,0
+Month_12,SKU_059,Plant_South,Casting,Swift Mfg,7,339,287,274,326,517.11,0
+Month_01,SKU_060,Plant_North,Machined Parts,Apex Supply,3,248,95,114,267,121.29,0
+Month_02,SKU_060,Plant_North,Machined Parts,Apex Supply,3,267,284,274,257,121.29,0
+Month_03,SKU_060,Plant_North,Machined Parts,Apex Supply,3,257,210,226,273,121.29,0
+Month_04,SKU_060,Plant_North,Machined Parts,Apex Supply,3,273,195,187,265,121.29,0
+Month_05,SKU_060,Plant_North,Machined Parts,Apex Supply,3,265,172,183,276,121.29,0
+Month_06,SKU_060,Plant_North,Machined Parts,Apex Supply,3,276,219,228,285,121.29,0
+Month_07,SKU_060,Plant_North,Machined Parts,Apex Supply,3,285,198,197,284,121.29,0
+Month_08,SKU_060,Plant_North,Machined Parts,Apex Supply,3,284,255,240,269,121.29,0
+Month_09,SKU_060,Plant_North,Machined Parts,Apex Supply,3,269,205,217,281,121.29,0
+Month_10,SKU_060,Plant_North,Machined Parts,Apex Supply,3,281,207,202,276,121.29,0
+Month_11,SKU_060,Plant_North,Machined Parts,Apex Supply,3,276,181,183,278,121.29,0
+Month_12,SKU_060,Plant_North,Machined Parts,Apex Supply,8,278,197,148,229,121.29,1
