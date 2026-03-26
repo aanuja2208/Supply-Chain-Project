@@ -3,8 +3,6 @@
 ## 📊 Overview
 This project is an **Interview-Ready Inventory Planning Solution** designed for a Manufacturing Parts Network. It demonstrates core supply chain competencies: demand forecasting, statistical inventory optimization (ABC-XYZ), and supplier performance tracking.
 
-**Designed for**: Supply Chain / Production / Operations Intern Roles.
-
 ---
 
 ## 🛠 Features
